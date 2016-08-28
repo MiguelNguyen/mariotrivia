@@ -13,4 +13,6 @@
 h1.correct, h1.incorrect {
 	width:250px;
 }
-
+* {
+	font-family: 'Lancelot', cursive;
+}
